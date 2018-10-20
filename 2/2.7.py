@@ -1,0 +1,11 @@
+x,y = int(input()), int(input())
+z,t = float(input()), float(input())
+if x and y > 0:
+    print(x-y)
+    print(x+z)
+    print(z+t)
+    print(x*z)
+    print(x/2)
+    print(x/(y+1))
+    print(((x+y)*z)/(4*x))
+    print(x**(-1/2))
