@@ -1,0 +1,4 @@
+Écrire le programme qui lit en input trois entiers a,b et c. Si l’entier c est égal à 1, alors le programme affiche sur output (imprime) la valeur de a+b ; si c vaut 2 alors le programme affiche la valeur de a-b ; si c est égal à 3 alors l’output sera la valeur de a.b (produit de a pr b). Enfin, si la valeur 4 est assignée à c, alors le programme affiche la valeur de a2+b.a. Si c contient une autre valeur, le programme affiche le message "Erreur".
+Votre code à tester par upylab ne doit pas avoir de paramètre dans les input. Exemple: a = int(input()) plutôt que a = int(input("a = "))
+
+Entrez votre solution :

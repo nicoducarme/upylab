@@ -1,0 +1,1 @@
+Écrire un programme qui imprime 'OK' ou KO' selon que deux nombres entiers lus sur input sont oui ou non premiers entre eux.

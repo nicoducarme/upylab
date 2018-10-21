@@ -1,5 +1,7 @@
 import random
 NB_ESSAIS_MAX = 6
+#enlever le commentaire suivant pour tester avec un seed et remplacer l'argument par le seed d'UpuLaB
+#random.seed(argument)
 secret = random.randint(0,100)
 i = 0
 test = True

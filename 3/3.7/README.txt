@@ -1,0 +1,2 @@
+Écrire un programme qui imprime la moyenne géométrique sqrt(a*b)(la racine carrée du produit de a par b) de deux nombres positifs de type float lus sur input. Si au moins un des deux nombres est négatif, imprime "Erreur".
+ Votre code à tester par upylab ne doit pas avoir de paramètre dans les input. Exemple: a = float(input()) plutôt que a = float(input("a = "))

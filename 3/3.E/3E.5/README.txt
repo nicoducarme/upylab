@@ -1,0 +1,1 @@
+Écrire un programme qui imprime la moyenne géométrique (racine neme(a1*a2*a3*a4*...*an) de nombres positifs de type float lus sur input. On suppose n>1 et que lors de la lecture la valeur -1 est une "valeur sentinelle" (à ne pas comptabiliser) pour informer que la séquence lue est terminée.
