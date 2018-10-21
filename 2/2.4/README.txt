@@ -1,0 +1,3 @@
+Écrire un programme qui lit deux nombres a et b de type float sur input et qui calcule et affiche le nombre c tel que b soit la moyenne arithmétique de a et c.
+Votre code à tester par UpyLaB ne doit pas avoir de paramètre dans les input. Exemple: a = float(input()) plutôt que a = float(input("a = "))
+De même, votre code à tester par UpyLaB ne doit imprimer que le résultat numérique de c, pas de texte supplémentaire. Exemple: print(c) plutôt que print("Résultat : ", c))
