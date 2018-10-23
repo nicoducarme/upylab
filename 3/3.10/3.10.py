@@ -18,4 +18,4 @@ while test == True:
             print("Trop petit")
     else:
         test = False
-        print("Perdu !")
+        print("Perdu ! Le secret était ",secret)
